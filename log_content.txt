@@ -1,0 +1,6 @@
+<title>Merchant: Wealth & Coincidence_LOG</title>
+
+[2026-09-10]
+- Establish preliminary game mechanics.
+- Documenting game mechanics
+- SHA256: a863c5e85264477548061be326ca9fd4f83f4c45b5977feea5f2c94d16ae2f2d  Merchant_Wealth_Coincidence_20260910.pdf
